@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinPannel", "WinPannel\WinPannel.csproj", "{07F3E5B5-520B-4CE3-8858-5A33BC26A75B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07F3E5B5-520B-4CE3-8858-5A33BC26A75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F3E5B5-520B-4CE3-8858-5A33BC26A75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F3E5B5-520B-4CE3-8858-5A33BC26A75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F3E5B5-520B-4CE3-8858-5A33BC26A75B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF5BB7C5-E174-4CF6-A472-86F1E8BCC49F}
+	EndGlobalSection
+EndGlobal
